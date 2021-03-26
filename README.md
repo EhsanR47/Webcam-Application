@@ -9,3 +9,6 @@ Webcam-Application- C#<br>
 1. https://www.nuget.org/packages/AForge/<br>
 2. https://www.nuget.org/packages/AForge.Video/<br>
 3. https://www.nuget.org/packages/AForge.Video.DirectShow/<br>
+
+-Ref:<br>
+1. https://www.youtube.com/watch?v=Thu6DXTnM_M
