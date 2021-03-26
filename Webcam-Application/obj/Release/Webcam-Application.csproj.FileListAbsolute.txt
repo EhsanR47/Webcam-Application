@@ -1,0 +1,14 @@
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\Webcam-Application.exe.config
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\Webcam-Application.exe
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\Webcam-Application.pdb
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\AForge.dll
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\AForge.Video.dll
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\AForge.xml
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\AForge.Video.xml
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\bin\Release\AForge.Video.DirectShow.xml
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\obj\Release\Webcam_Application.Form1.resources
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\obj\Release\Webcam_Application.Properties.Resources.resources
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\obj\Release\Webcam-Application.csproj.GenerateResource.Cache
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\obj\Release\Webcam-Application.exe
+C:\Users\Ehsan\Documents\Visual Studio 2012\Projects\Webcam-Application\Webcam-Application\obj\Release\Webcam-Application.pdb
